@@ -17,9 +17,3 @@ Tablero informativo sobre el agua concesionada en Jalisco: de dónde sale, en qu
 - Las concesiones urbanas se ubican en la toma o el pozo, no donde vive la población servida.
 
 El mapa usa [Leaflet](https://leafletjs.com) 1.9.4 (licencia BSD-2-Clause), incluido en el archivo.
-
-## Publicar en GitHub Pages
-1. Crea un repositorio público (por ejemplo `agua-jalisco`).
-2. Sube `index.html`, `tablero-escritorio.html` y este `README.md`.
-3. En *Settings → Pages*, elige *Deploy from a branch*, rama `main`, carpeta `/ (root)` y guarda.
-4. En unos minutos el sitio queda en `https://TU-USUARIO.github.io/agua-jalisco/`.
